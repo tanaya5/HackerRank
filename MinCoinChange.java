@@ -24,7 +24,6 @@
                 }
                 arr[i] = min;
             }
-            System.out.println(" ," + arr[i]);
         }
         return (long)arr[(int)n];
         }
